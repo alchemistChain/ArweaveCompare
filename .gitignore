@@ -1,0 +1,12 @@
+*.beam
+*.log
+*.dat
+.arweave.plt
+testlog
+apps/arweave/priv/tls
+apps/arweave/priv/*.so
+_build
+.rebar3
+apps/arweave/c_src/*.o
+data_test_master
+data_test_slave
